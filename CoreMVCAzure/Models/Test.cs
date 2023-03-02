@@ -4,4 +4,5 @@ public class Test
     public string Name { get; set; }
     public string Location { get; set; }
     public string Addres { get; set; }
+    public double cost { get; set; }
 }
